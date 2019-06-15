@@ -1,0 +1,6 @@
+THe problem: Given the height of the stairs (in steps)
+and the set of possible strides, tell how many ways there are
+to climb to the given height.
+
+For example. Given height = 10, and set of strides [1,2],
+we would like to know how many combinations of strides can get us to the goal.
